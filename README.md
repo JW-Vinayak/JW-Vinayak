@@ -4,6 +4,6 @@
 - 💼 Currently: Lead Member of Technical Staff @ Salesforce (formerly Senior Software Engineer @Slack), 
 - 🎧 I've contributed to shifting Slack calls from the legacy system to AWS Chime and worked on Slack Huddles as a core team member
 - 👋 I've also [contributed to open-source](https://github.com/monaca/monaca-cli/graphs/contributors) libraries on the [Monaca Platform](https://monaca.io/), providing cloud-powered HTML5 hybrid mobile app development tools
-- 👨‍🏫 I Mentor new engineers and contribute to in-house react component library (Slack Kit)
-- 🔧 Skills: JavaScript, ReactJS, Redux, TypeScript, Optimising apps for performance, App Architecture, Technical Leadership, NodeJS, Jest, Cypress, Electron, WebRTC, MongoDB, Webpack, AWS Chime
+- 👨‍🏫 I mentor new engineers and contribute to in-house react component library (Slack Kit)
+- 🔧 Skills: JavaScript, ReactJS, Redux, TypeScript, Optimising apps for performance, App Architect, Technical Leadership, NodeJS, Jest, Cypress, Electron, WebRTC, MongoDB, Webpack, AWS Chime
 - 📫 Reach me at vinayakv.mote@gmail.com or linkedin.com/in/vinayak-mote
